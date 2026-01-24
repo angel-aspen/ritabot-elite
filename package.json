@@ -42,7 +42,7 @@
     "dotenv": "^8.2.0",
     "google-translate-api": "github:ArtanisTheOne/google-translate-api",
     "iso-639-1": "^2.1.4",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "make-dir": "^3.1.0",
     "pg": "^8.4.1",
     "pg-hstore": "^2.3.3",
